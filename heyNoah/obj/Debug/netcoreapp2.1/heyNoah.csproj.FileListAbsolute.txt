@@ -1,0 +1,11 @@
+C:\Users\Martin\Desktop\git\heyNoah\bin\Debug\netcoreapp2.1\heyNoah.deps.json
+C:\Users\Martin\Desktop\git\heyNoah\bin\Debug\netcoreapp2.1\heyNoah.runtimeconfig.json
+C:\Users\Martin\Desktop\git\heyNoah\bin\Debug\netcoreapp2.1\heyNoah.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\git\heyNoah\bin\Debug\netcoreapp2.1\heyNoah.dll
+C:\Users\Martin\Desktop\git\heyNoah\bin\Debug\netcoreapp2.1\heyNoah.pdb
+C:\Users\Martin\Desktop\git\heyNoah\obj\Debug\netcoreapp2.1\heyNoah.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\git\heyNoah\obj\Debug\netcoreapp2.1\heyNoah.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\git\heyNoah\obj\Debug\netcoreapp2.1\heyNoah.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\git\heyNoah\obj\Debug\netcoreapp2.1\heyNoah.AssemblyInfo.cs
+C:\Users\Martin\Desktop\git\heyNoah\obj\Debug\netcoreapp2.1\heyNoah.dll
+C:\Users\Martin\Desktop\git\heyNoah\obj\Debug\netcoreapp2.1\heyNoah.pdb

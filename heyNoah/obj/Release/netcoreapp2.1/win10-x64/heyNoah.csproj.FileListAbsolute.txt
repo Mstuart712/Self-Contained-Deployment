@@ -1,0 +1,14 @@
+C:\Users\Martin\Desktop\git\heyNoah\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\Martin\Desktop\git\heyNoah\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\Martin\Desktop\git\heyNoah\bin\Release\netcoreapp2.1\win10-x64\heyNoah.exe
+C:\Users\Martin\Desktop\git\heyNoah\bin\Release\netcoreapp2.1\win10-x64\heyNoah.deps.json
+C:\Users\Martin\Desktop\git\heyNoah\bin\Release\netcoreapp2.1\win10-x64\heyNoah.runtimeconfig.json
+C:\Users\Martin\Desktop\git\heyNoah\bin\Release\netcoreapp2.1\win10-x64\heyNoah.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\git\heyNoah\bin\Release\netcoreapp2.1\win10-x64\heyNoah.dll
+C:\Users\Martin\Desktop\git\heyNoah\bin\Release\netcoreapp2.1\win10-x64\heyNoah.pdb
+C:\Users\Martin\Desktop\git\heyNoah\obj\Release\netcoreapp2.1\win10-x64\heyNoah.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\git\heyNoah\obj\Release\netcoreapp2.1\win10-x64\heyNoah.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\git\heyNoah\obj\Release\netcoreapp2.1\win10-x64\heyNoah.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\git\heyNoah\obj\Release\netcoreapp2.1\win10-x64\heyNoah.AssemblyInfo.cs
+C:\Users\Martin\Desktop\git\heyNoah\obj\Release\netcoreapp2.1\win10-x64\heyNoah.dll
+C:\Users\Martin\Desktop\git\heyNoah\obj\Release\netcoreapp2.1\win10-x64\heyNoah.pdb
